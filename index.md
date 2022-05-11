@@ -10,4 +10,4 @@ show_call_box: true
 
 # Fluidity Space Services
 
-Engineering consultants with expertise in advanced manufacturing, minimum viable product development, and process development for the aerospace and automotive sectors.
+Engineering consultants with expertise in advanced manufacturing, minimum viable product design, and process development for the aerospace and automotive sectors.
